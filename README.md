@@ -5,6 +5,6 @@ It includes notes, example code, and small projects to improve programming skill
 # Daily Progress
 Day 1: What is programming, what is Python, Python features, and uses.<br>
 Day 2: Print() function.<br>
-Day 3: Variables in Python.
-Day 4:
+Day 3: Variables in Python.<br>
+Day 4: Input() function.<br>
  
