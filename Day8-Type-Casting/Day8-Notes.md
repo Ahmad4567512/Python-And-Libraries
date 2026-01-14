@@ -1,4 +1,4 @@
-# Day 7: Type Casting in Python
+# Day 8: Type Casting in Python
 
 Type casting means converting one data type into another data type.
 
