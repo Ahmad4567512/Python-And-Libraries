@@ -23,18 +23,18 @@ fruits.append("orange")     # adds at the end of the list<br>
 fruits.insert(1, "mango")   # adds at index 1<br>
 print("Fruits after adding:", fruits)<br>
 
-# 1. append(value) → adds the item at the end of the list<br>
-# 2. insert(index, value) → adds the item at a specific position<br>
+1. append(value) → adds the item at the end of the list<br>
+2. insert(index, value) → adds the item at a specific position<br>
 
 ## 4. Removing Items
 
 Items can be removed using remove() or pop():<br>
 
-fruits.remove("banana")  # removes the first occurrence of 'banana'<br>
-fruits.pop()             # removes the last item<br>
+fruits.remove("banana")                                      # removes the first occurrence of 'banana'<br>
+fruits.pop()                                                 # removes the last item<br>
 print("Fruits after removing:", fruits)<br>
 remove(value) → removes an item by value<br>
-# pop() → removes the last item by default or an item at a specific index if provided<br>
+pop() → removes the last item by default or an item at a specific index if provided<br>
 
 ## 5. Useful Functions with Lists
 
@@ -46,7 +46,8 @@ print("Sorted numbers:", numbers)<br>
 numbers.reverse()                               # reverses the order of the list<br>
 print("Reversed numbers:", numbers)<br>
 
-# 1. len(list) → returns the number of items in the list<br>
-# 2. sort() → sorts the list in ascending order<br>
-# 3. reverse() → reverses the current order of the list<br>
+1. len(list) → returns the number of items in the list<br>
+2. sort() → sorts the list in ascending order<br>
+3. reverse() → reverses the current order of the list<br>
+
 
