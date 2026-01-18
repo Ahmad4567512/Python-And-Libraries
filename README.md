@@ -12,7 +12,7 @@ Day 6: Practice exercise.<br>
 Day 7: Data Types in Python.<br>
 Day 8: Type Casting in Python.<br>
 Day 9: Operators in Python.<br>
-Day 10: If-Else (Basics).<br>
+Day 10: If-Else.<br>
 Day 11: Exercise.<br>
 Day 12: Lists in Python.<br>
 Day 13: Lists in Python 2.<br>
@@ -21,6 +21,7 @@ Day 15: Tuple in Python.<br>
 Day 16: Sets in Python.<br>
 Day 17: Dictionaries in Python.<br>
 Day 18: Loops in Python (Introduction).<br>
-Day 19: <br>
-Day 20:
-Day 21:
+Day 19: For & While Loops.<br>
+Day 20: <br>
+Day 21: <br>
+Day 22: <br>
