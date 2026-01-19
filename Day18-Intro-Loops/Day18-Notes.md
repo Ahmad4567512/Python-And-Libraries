@@ -36,6 +36,6 @@ The loop runs once for each item in the sequence.
 for variable in sequence:
     code to repeat
 
-* Variable takes the value of each item one by one
-* Sequence can be a list or range
-* The indented code runs repeatedly
+Variable takes the value of each item one by one
+Sequence can be a list or range
+The indented code runs repeatedly
