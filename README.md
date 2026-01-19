@@ -21,4 +21,4 @@ Day 15: Tuple in Python.<br>
 Day 16: Sets in Python.<br>
 Day 17: Dictionaries in Python.<br>
 Day 18: Loops in Python (Introduction).<br>
-Day 19:
+Day 19: <br>
