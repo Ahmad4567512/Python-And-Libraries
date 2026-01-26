@@ -27,7 +27,7 @@ Example of built-in functions:
 def function_name():
     # code block
 ```
-## Example
+### Example
 ```python
 def greet():
     print("Hello, welcome to Python!")
