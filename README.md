@@ -32,5 +32,4 @@ Day 26: Built-In Functions in Python.<br>
 Day 27: String Slicing in Python.<br>
 Day 28: String Slicing Practice.<br>
 Day 29: String Formatting.<br>
-Day 30: Student Management System Project.<br>
-<br>
+Day 30: Student Management System Project.
