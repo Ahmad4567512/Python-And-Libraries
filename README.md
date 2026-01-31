@@ -29,5 +29,7 @@ Day 23: Nested loops in python.<br>
 Day 24: Pattern printing using loops.<br>
 Day 25: Functions in Python.<br> 
 Day 26: Built-In Functions in Python.<br>
-Day 27: String Slicing in Python. <br>
-
+Day 27: String Slicing in Python.<br>
+Day 28: String Slicing Practice.<br>
+Day 29: String Formatting.<br>
+Day 30: Student Management System Project.<br>
