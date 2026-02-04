@@ -34,4 +34,8 @@ Day 28: String Slicing Practice.<br>
 Day 29: String Formatting.<br>
 Day 30: Student Management System Project.<br>
 Day 31: If-Else-Elif.<br>
-<br>
+Day 32: <br>
+Day 33: <br>
+Day 34: <br>
+
+
