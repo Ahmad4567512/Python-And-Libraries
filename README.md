@@ -34,7 +34,7 @@ Day 28: String Slicing Practice.<br>
 Day 29: String Formatting.<br>
 Day 30: Student Management System Project.<br>
 Day 31: If-Else-Elif.<br>
-Day 32: <br>
+Day 32: File Handling In Python.<br>
 Day 33: <br>
 Day 34: 
 
