@@ -1,4 +1,4 @@
-# awesomePython
+# awesomePython [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 ## Introduction
 This repository is for practicing Python on a daily basis.<br>
 It includes notes, example code, and small projects to improve programming skills.
