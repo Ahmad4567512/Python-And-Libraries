@@ -1,8 +1,8 @@
-# awesomePython
+# awesomePython [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 ## Introduction
 This repository is for practicing Python on a daily basis.<br>
 It includes notes, example code, and small projects to improve programming skills.
-# Daily Progress
+# Days
 Day 1: What is programming, what is Python, Python features, and uses.<br>
 Day 2: Print() function.<br>
 Day 3: Variables in Python.<br>
@@ -34,7 +34,7 @@ Day 28: String Slicing Practice.<br>
 Day 29: String Formatting.<br>
 Day 30: Student Management System Project.<br>
 Day 31: If-Else-Elif.<br>
-Day 32: <br>
+Day 32: File Handling In Python.<br>
 Day 33: <br>
 Day 34: 
 
