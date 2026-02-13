@@ -40,3 +40,5 @@ Day 34: Import & Module In Python.<br>
 Day 35: Number Guessing Game.<br>
 Day 36: Password Generator.<br>
 Day 37: List & Dictionaries In Python.<br>
+Day 38: Functions 2.<br>
+Day 39:
