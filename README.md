@@ -44,3 +44,4 @@ Day 38: Functions 2.<br>
 Day 39: Variable Scope In Python.<br>
 Day 40: Lambda Functions.<br>
 Day 41: List Comprehension.<br>
+Day 42:
